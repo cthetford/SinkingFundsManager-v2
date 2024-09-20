@@ -1,0 +1,58 @@
+Primary Savings,Dining,N,Savings
+Primary Savings,Car Repair,N,Savings
+Primary Savings,Car Tags,Y,Savings
+Primary Savings,Christmas,Y,Savings
+Primary Savings,Misc,Y,Savings
+Primary Savings,Home Maintenance,N,Savings
+Primary Savings,Amex Blue,N,Savings
+Primary Savings,Fuel,N,Expenses
+Primary Savings,Taxes,N,Savings
+Primary Savings,Tuition Rachel,N,Savings
+Primary Savings,Health Care,Y,Expenses
+Primary Savings,Discover,N,Credit Card
+Primary Savings,House Supplies,N,Expenses
+Primary Savings,Entertainment,N,Expenses
+Primary Savings,Sams Mastercard,N,Credit Card
+Primary Savings,Band,N,Expenses
+Primary Savings,Gifts,N,Expenses
+Primary Savings,Kohl's,N,Credit Card
+Primary Savings,Car Insurance,Y,Expenses
+Primary Savings,Kids Activities,Y,Expenses
+Primary Savings,Personal Care,N,Expenses
+Primary Savings,Pool Supplies,N,Expenses
+Primary Savings,Clothes,N,Expenses
+Primary Savings,Savings,N,Savings
+Primary Savings,Tuition Caleb,Y,Savings
+Primary Savings,Travel,N,Savings
+Primary Savings,Future payday,N,Savings
+Primary Savings,Groceries,N,Expenses
+Primary Savings,J C Penney,N,Credit Card
+Secondary Savings,Dining,N,Savings
+Secondary Savings,Car Repair,N,Savings
+Secondary Savings,Car Tags,Y,Savings
+Secondary Savings,Christmas,Y,Savings
+Secondary Savings,Misc,Y,Savings
+Secondary Savings,Home Maintenance,N,Savings
+Secondary Savings,Amex Blue,N,Savings
+Secondary Savings,Fuel,N,Expenses
+Secondary Savings,Taxes,N,Savings
+Secondary Savings,Tuition Rachel,N,Savings
+Secondary Savings,Health Care,Y,Expenses
+Secondary Savings,Discover,N,Credit Card
+Secondary Savings,House Supplies,N,Expenses
+Secondary Savings,Entertainment,N,Expenses
+Secondary Savings,Sams Mastercard,N,Credit Card
+Secondary Savings,Band,N,Expenses
+Secondary Savings,Gifts,N,Expenses
+Secondary Savings,Kohl's,N,Credit Card
+Secondary Savings,Car Insurance,Y,Expenses
+Secondary Savings,Kids Activities,Y,Expenses
+Secondary Savings,Personal Care,N,Expenses
+Secondary Savings,Pool Supplies,N,Expenses
+Secondary Savings,Clothes,N,Expenses
+Secondary Savings,Savings,N,Savings
+Secondary Savings,Tuition Caleb,Y,Savings
+Secondary Savings,Travel,N,Savings
+Secondary Savings,Future payday,N,Savings
+Secondary Savings,Groceries,N,Expenses
+Secondary Savings,J C Penney,N,Credit Card
