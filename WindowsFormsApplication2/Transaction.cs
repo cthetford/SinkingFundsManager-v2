@@ -13,7 +13,7 @@ namespace Transactions
 
         public static void loadDbFromFile(SavingsDatabase db)
         {
-            string[] lineOfContents = File.ReadAllLines("Data\\Accounts.txt");
+            string[] lineOfContents = File.ReadAllLines("Accounts.txt");
             String sql;
 
             sql = "delete from d_Accounts";
@@ -54,7 +54,7 @@ namespace Transactions
 
         public static void loadDbFromFile(SavingsDatabase db)
         {
-            string[] lineOfContents = File.ReadAllLines("Data\\Types.txt");
+            string[] lineOfContents = File.ReadAllLines("Types.txt");
             String sql;
 
             sql = "delete from d_Types";
@@ -86,7 +86,7 @@ namespace Transactions
 
         internal static void loadDbFromFile(SavingsDatabase db)
         {
-            string[] lineOfContents = File.ReadAllLines("Data\\Categories.txt");
+            string[] lineOfContents = File.ReadAllLines("Categories.txt");
             String sql;
 
             sql = "delete from d_Categories";

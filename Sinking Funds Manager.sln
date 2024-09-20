@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinking Funds Manager", "WindowsFormsApplication2\Sinking Funds Manager.csproj", "{B4FC0684-4C13-4CB4-AFB8-00FE2C6B447B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Singing Funds Manager Setup", "Singing Funds Manager Setup\Singing Funds Manager Setup.vdproj", "{CF77749D-E5A6-4EB4-8664-95721AEA89EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,8 @@ Global
 		{B4FC0684-4C13-4CB4-AFB8-00FE2C6B447B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FC0684-4C13-4CB4-AFB8-00FE2C6B447B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4FC0684-4C13-4CB4-AFB8-00FE2C6B447B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CF77749D-E5A6-4EB4-8664-95721AEA89EE}.Debug|Any CPU.ActiveCfg = Debug
+		{CF77749D-E5A6-4EB4-8664-95721AEA89EE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,7 +11,7 @@ namespace Transactions
 {
     public class SavingsDatabase
     {
-        static String dbFile =  "Data\\SavingsDatabase.sqlite";
+        static String dbFile =  "SavingsDatabase.sqlite";
         SQLiteConnection dbConnection;
         static bool Changed = false;
 
@@ -115,7 +115,7 @@ namespace Transactions
         {
             if (!Changed) return;
 
-            System.IO.DirectoryInfo d = System.IO.Directory.CreateDirectory("Data\\Backup");
+            System.IO.DirectoryInfo d = System.IO.Directory.CreateDirectory("Backup");
 
             FileInfo[] files = d.GetFiles();
 
@@ -126,7 +126,7 @@ namespace Transactions
             }
 
             string dir = System.IO.Directory.GetCurrentDirectory();
-            string target = "Data\\Backup\\" + Path.GetFileName(dbFile)+ "." + DateTime.Now.ToString("yyyyMMdd-HHmmss");
+            string target = "Backup\\" + Path.GetFileName(dbFile)+ "." + DateTime.Now.ToString("yyyyMMdd-HHmmss");
             System.IO.File.Copy(dbFile,target);
             
 
