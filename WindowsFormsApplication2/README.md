@@ -1,8 +1,10 @@
 # Sinking Funds Manager
 
-Many times in managing a houshold budget.  Sinkng funds are used for intermittent or future expenses.  A could description can be found [here](https://www.ramseysolutions.com/saving/stop-the-panic-sinking-fund#:~:text=A%20sinking%20fund%20is%20a,use%20at%20a%20later%20date).
+Many times when managing a houshold budget, sinkng funds are used for intermittent or future expenses to allow savings to be set aside for future 
+expenses.  A good description can be found [here](https://www.ramseysolutions.com/saving/stop-the-panic-sinking-fund#:~:text=A%20sinking%20fund%20is%20a,use%20at%20a%20later%20date).
 
-The challenge of implementing a sinking fund is that a savings account may be used for multiple purposes: college savings, savings for a future vacation, household maintenance, intermittent auto repairs etc.
+The challenge of implementing a sinking fund is that a savings account may be used for multiple purposes: college savings, savings for a future vacation, household maintenance, intermittent auto repairs etc,
+and keeping track of what has been set aside for each category can be a challenge.
 
 This application was created to allow tracking of the various buckets of funds withing a savings account.
 
@@ -147,7 +149,10 @@ for example, Power BI) to access and analyze data
 
 As I mentioned, this was created to serve a purpose within our household and it is serving that purpose for us.  If you 
 see opportunities to improve on the tool and are developmentally inclined, feel free to have at it!  Reach out to me with any
-questions.
+questions of if you wish to contribute.
+
+You can make requests, but I can't make any promises to be able to carve out the time to do anything complex.  I'm hoping that but putting
+this out in the public, maybe someone with more time and energy will take and run with the application.
 
 ## To Do
 - [ ] Allow editing of configuration within the program rather than making you edit text files and load them manually.
