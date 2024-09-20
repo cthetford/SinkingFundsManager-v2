@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:Singing Funds Manager Setup"
+"ProjectName" = "8:Sinking Funds Manager Setup"
 "LanguageId" = "3:1033"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:1033"
@@ -188,6 +188,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -655,7 +663,7 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:Singing Funds Manager Setup"
+        "ProductName" = "8:Sinking Funds Manager Setup"
         "ProductCode" = "8:{CDE9EE8D-FCCE-4E89-A38B-1674B6C2912B}"
         "PackageCode" = "8:{4BB15830-4E0A-4008-ABE4-DE4BE7F7E6DC}"
         "UpgradeCode" = "8:{614B8D1C-396A-481A-B6FB-CAAD78358F61}"
@@ -668,9 +676,9 @@
         "Manufacturer" = "8:Sinking Funds"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:Singing Funds Manager Setup"
+        "Title" = "8:Sinking Funds Manager Setup"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Default Company Name"
+        "ARPCONTACT" = "8:Curtis Thetford"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
