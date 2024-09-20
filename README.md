@@ -1,8 +1,9 @@
 # Sinking Funds Manager
 
-Many times in managing a houshold budget.  Sinkng funds are used for intermittent or future expenses.  A could description can be found [here](https://www.ramseysolutions.com/saving/stop-the-panic-sinking-fund#:~:text=A%20sinking%20fund%20is%20a,use%20at%20a%20later%20date).
+Many times in managing a houshold budget, sinkng funds are used for intermittent or future expenses.  A good description can be found [here](https://www.ramseysolutions.com/saving/stop-the-panic-sinking-fund#:~:text=A%20sinking%20fund%20is%20a,use%20at%20a%20later%20date).
 
-The challenge of implementing a sinking fund is that a savings account may be used for multiple purposes: college savings, savings for a future vacation, household maintenance, intermittent auto repairs etc.
+The challenge of implementing a sinking fund is that a savings account may be used for multiple purposes: college savings, savings for a future vacation, household maintenance, intermittent auto repairs etc.,
+and keeping track of the allocations within a single account can be a challenge.
 
 This application was created to allow tracking of the various buckets of funds withing a savings account.
 
@@ -77,7 +78,7 @@ Secondary Savings,Cavings,N,Savings
 ```
 
 ### Loading Configuration files
-The first time you start the application, all of the configuration files will be loaded to the database.  Once the database 
+The first time you start the application, the configuration files will be loaded to the database.  Once the database 
 has been created, it does not automatically load the files.  If you make any edits and want to load them, you need to select
 the appropriate item from the tools menu:
 
@@ -148,6 +149,9 @@ for example, Power BI) to access and analyze data
 As I mentioned, this was created to serve a purpose within our household and it is serving that purpose for us.  If you 
 see opportunities to improve on the tool and are developmentally inclined, feel free to have at it!  Reach out to me with any
 questions.
+
+You can send me any ideas for improvements, but I really don't have a lot of time to tackle anything but very small enhancements. 
+I am hoping that by making the code available on github, someone with more time and energy might pick this up and run with it.
 
 ## To Do
 - [ ] Allow editing of configuration within the program rather than making you edit text files and load them manually.
