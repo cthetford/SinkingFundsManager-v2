@@ -122,18 +122,18 @@ You can sort the data on any column by clicking the column header.  Repeatedly c
 It is payday and after paying your bills, you have $1200 you want to put in savings to use for future car repairs, travel, home repairs, general savings 
 and your emergency fund. You keep your emergency fund in a different savings account.
 
-![Example   Payday1](Screenshots/Example - Payday1.png) 
+![Example Payday1](Screenshots/ExamplePayday1.png) 
 
 Now let's which to the other account and deposit the remaining $200.
 
-![Example   Payday2](Screenshots/Example - Payday2.png) 
+![Example Payday2](Screenshots/ExamplePayday2.png) 
 
 ### Scenario 2 - Disaster!
 
 You got mad at the football game and threw a shoe through the window.  You go to the hardware store to buy materials to fix it for $125.
 On the way home, you got a flat tire and had to stop off to buy a new one for $123.50.
 
-![Example   Disaster](Screenshots/Example - Disaster.png) 
+![Example Disaster](Screenshots/ExampleDisaster.png)  
 
 
 
