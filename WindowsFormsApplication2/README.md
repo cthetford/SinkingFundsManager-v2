@@ -108,10 +108,10 @@ in the next section).  If you make a mistake, just enter in and incremental tran
 In addition, you can right click on any category to view recent transactions and their comments, as well as monthly or weekly
 changes in the category (if you want to see how your savings is growing!).
 
-![Context Menu](Screenshots/Context Menu.png)
+![ContextMenu](Screenshots/ContextMenu.png)
 
 
-![Transaction History](Screenshots/Transaction History.png)
+![TransactionHistory](Screenshots/TransactionHistory.png)
 
 ### Sorting
 
