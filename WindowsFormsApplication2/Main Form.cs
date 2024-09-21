@@ -16,7 +16,7 @@ namespace Transactions
 {
 
 
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
        
             public const int catColumn = 0;
@@ -36,7 +36,7 @@ namespace Transactions
         Transactions.SavingsDatabase myDb;
         private String currentAccount;
 
-        public Form1()
+        public MainForm()
         {
             loading = true;
             InitializeComponent();
